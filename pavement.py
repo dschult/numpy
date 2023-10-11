@@ -1,4 +1,4 @@
-r"""
+gggr"""
 This paver file is intended to help with the release process as much as
 possible. It relies on virtualenv to generate 'bootstrap' environments as
 independent from the user system as possible (e.g. to make sure the sphinx doc
